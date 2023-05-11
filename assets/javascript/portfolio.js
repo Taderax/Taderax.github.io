@@ -10,11 +10,11 @@ $(document).ready(() => {
   const links = [
     {
       name: 'my discord',
-      link: 'discord.com/users/462371202887843842',
+      link: 'discord.com/users/929492081553080380',
     },
     {
       name: 'cashapp $$',
-      link: 'cash.app/£taderax',
+      link: 'cash.app/£yeataway',
     },
     {
       name: 'feds.lol',
